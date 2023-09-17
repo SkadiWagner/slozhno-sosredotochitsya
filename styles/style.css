@@ -440,7 +440,7 @@
 
   .header__title {
     font-size: 116px;
-    margin: 0;
+    inset-inline-start: 5px;
   }
 
   .header__text {
