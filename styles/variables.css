@@ -12,7 +12,7 @@
   --subtitle-bg: #FF0070; /* фон у сабтайтлов */
   --paragraph-color: #F1B2CE; /* цвет текста в секциях */
   --rectangle-color: #FF0070; /* цвет уголков и навигации*/
-  --background-image: url(/images/cover-image-dark.png); /* фоновая картинка */
+  --background-image: url(../images/cover-image-dark.png); /* фоновая картинка */
 
   --sides-padding: 20px;
   --gap-section: 20px;

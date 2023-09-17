@@ -12,7 +12,7 @@
   --subtitle-bg: #FF8DCB; /* фон у сабтайтлов */
   --paragraph-color: #353430; /* цвет текста в секциях */
   --rectangle-color: #353430; /* цвет уголков и навигации*/
-  --background-image: url(/images/cover-image-light.png); /* фоновая картинка */
+  --background-image: url(../images/cover-image-light.png); /* фоновая картинка */
 }
 
 
@@ -29,6 +29,6 @@
     --subtitle-bg: #FF8DCB; /* фон у сабтайтлов */
     --paragraph-color: #353430; /* цвет текста в секциях */
     --rectangle-color: #353430; /* цвет уголков и навигации*/
-    --background-image: url(/images/cover-image-light.png); /* фоновая картинка */   
+    --background-image: url(../images/cover-image-light.png); /* фоновая картинка */   
     }
 }
