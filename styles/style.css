@@ -167,8 +167,8 @@
 }
 
 .content__bold {
-  margin-bottom: 20px;
   font-weight: 700;
+  margin-bottom: 20px;
 }
 
 .link-shadow {
@@ -236,13 +236,18 @@
   padding: var(--sides-padding);
   display: grid;
   grid-template-columns: minmax(min-content, 315px) 2fr;
-  grid-template-rows: repeat(min-content);
   gap: var(--gap-section);
 }
 
 .ways__box {
   grid-column-start: 2;
   grid-column-end: 3;
+}
+
+.ways__cards {
+  display: flex;
+  flex-direction: column;
+  gap: var(--gap-section);
 }
 
 .ways__box .content__subtitle {
